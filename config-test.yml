@@ -1,1 +1,2 @@
-config-test , version1
+server:
+  config: sconfig-test , version1
